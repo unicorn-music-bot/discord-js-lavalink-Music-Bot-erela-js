@@ -1,5 +1,5 @@
 {
-  "token": "TOKEN",
+  "token": "ODg2NjI0MDk0MTE0NzA5NTQ0.YT4TCA.JQe1JAo_qwbYtC9JN0Pj4x1nj2c",
   "prefix": "!",
 
   "clientsettings": {
@@ -13,8 +13,8 @@
   },
 
   "spotify": {
-    "clientSecret": "",
-    "clientID": ""
+    "clientSecret": "a62ecc35afa24f4488b1b76a10960d3d",
+    "clientID": "910ac1d164ba495eb1f2c808d3610090"
   },
 
   "settings": {
